@@ -1,0 +1,4 @@
+# SSL link (stunnel required)
+H|*|*|hub.contempt.chat||
+c|127.0.0.1|xxxxxxxxxxxx|hub.contempt.chat|6696|1000||
+N|127.0.0.1|xxxxxxxxxxxx|hub.contempt.chat||1000|
