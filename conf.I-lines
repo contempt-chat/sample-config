@@ -1,0 +1,6 @@
+# I|<TARGET Host Addr>|<Password>|<TARGET Hosts NAME>|<Port>|<Class>|<Flags>|
+# global users
+I|*@*||||100|
+
+# local users
+I|*@127.0.0.0/8||||10|EN|
