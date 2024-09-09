@@ -1,0 +1,9 @@
+P|127.0.0.1|||6667||
+P|1.2.3.4|||6667||
+P|xxxx:xxxx:xxxx:xxxx::xxxx|||6667||
+
+# SSL (stunnel required)
+P|127.0.0.1|||6679||T|::ffff:1.2.3.4|
+P|127.0.0.1|||6697||T|::ffff:1.2.3.4|
+P|::1|||6679||T|xxxx:xxxx:xxxx:xxxx::xxxx|
+P|::1|||6697||T|xxxx:xxxx:xxxx:xxxx::xxxx|
