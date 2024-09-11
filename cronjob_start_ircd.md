@@ -13,5 +13,5 @@ chmod +x /home/ircd/cronjob_start_ircd.sh
 
 Add to crontab:
 ```
-*/5 * * * * /home/ircd/cronjob_start_ircd.sh > /dev/null 2>&
+*/5 * * * * /home/ircd/cronjob_start_ircd.sh > /dev/null 2>&1
 ```
